@@ -177,8 +177,8 @@ div h2 {
 }
 .box2 {
     width: 80em;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: auto;
+    margin-bottom: auto;
     max-height: 30vh;
     padding: 70px;
     font-size: 1.5rem;
